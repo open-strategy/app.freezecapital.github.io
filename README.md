@@ -1,1 +1,0 @@
-open-strategy.github.io

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://open-strategy.github.io/static/css/main.6005ef80.chunk.css",
+    "main.js": "https://open-strategy.github.io/static/js/main.2cd2dd72.chunk.js",
+    "main.js.map": "https://open-strategy.github.io/static/js/main.2cd2dd72.chunk.js.map",
+    "runtime-main.js": "https://open-strategy.github.io/static/js/runtime-main.08dea00c.js",
+    "runtime-main.js.map": "https://open-strategy.github.io/static/js/runtime-main.08dea00c.js.map",
+    "static/js/2.cade3664.chunk.js": "https://open-strategy.github.io/static/js/2.cade3664.chunk.js",
+    "static/js/2.cade3664.chunk.js.map": "https://open-strategy.github.io/static/js/2.cade3664.chunk.js.map",
+    "static/js/3.768afb20.chunk.js": "https://open-strategy.github.io/static/js/3.768afb20.chunk.js",
+    "static/js/3.768afb20.chunk.js.map": "https://open-strategy.github.io/static/js/3.768afb20.chunk.js.map",
+    "index.html": "https://open-strategy.github.io/index.html",
+    "static/css/main.6005ef80.chunk.css.map": "https://open-strategy.github.io/static/css/main.6005ef80.chunk.css.map",
+    "static/js/2.cade3664.chunk.js.LICENSE.txt": "https://open-strategy.github.io/static/js/2.cade3664.chunk.js.LICENSE.txt",
+    "static/media/getFetch.cjs": "https://open-strategy.github.io/static/media/getFetch.582d29c4.cjs"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08dea00c.js",
+    "static/js/2.cade3664.chunk.js",
+    "static/css/main.6005ef80.chunk.css",
+    "static/js/main.2cd2dd72.chunk.js"
+  ]
+}
