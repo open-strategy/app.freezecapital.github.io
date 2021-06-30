@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "https://app.freeze.capital.imapp.pl/static/css/main.6005ef80.chunk.css",
-    "main.js": "https://app.freeze.capital.imapp.pl/static/js/main.49bc398c.chunk.js",
-    "main.js.map": "https://app.freeze.capital.imapp.pl/static/js/main.49bc398c.chunk.js.map",
-    "runtime-main.js": "https://app.freeze.capital.imapp.pl/static/js/runtime-main.67454ba6.js",
-    "runtime-main.js.map": "https://app.freeze.capital.imapp.pl/static/js/runtime-main.67454ba6.js.map",
-    "static/js/2.73d493ce.chunk.js": "https://app.freeze.capital.imapp.pl/static/js/2.73d493ce.chunk.js",
-    "static/js/2.73d493ce.chunk.js.map": "https://app.freeze.capital.imapp.pl/static/js/2.73d493ce.chunk.js.map",
-    "static/js/3.768afb20.chunk.js": "https://app.freeze.capital.imapp.pl/static/js/3.768afb20.chunk.js",
-    "static/js/3.768afb20.chunk.js.map": "https://app.freeze.capital.imapp.pl/static/js/3.768afb20.chunk.js.map",
-    "index.html": "https://app.freeze.capital.imapp.pl/index.html",
-    "static/css/main.6005ef80.chunk.css.map": "https://app.freeze.capital.imapp.pl/static/css/main.6005ef80.chunk.css.map",
-    "static/js/2.73d493ce.chunk.js.LICENSE.txt": "https://app.freeze.capital.imapp.pl/static/js/2.73d493ce.chunk.js.LICENSE.txt",
-    "static/media/getFetch.cjs": "https://app.freeze.capital.imapp.pl/static/media/getFetch.582d29c4.cjs"
+    "main.css": "https://app.freeze.capital/static/css/main.6005ef80.chunk.css",
+    "main.js": "https://app.freeze.capital/static/js/main.adc464b1.chunk.js",
+    "main.js.map": "https://app.freeze.capital/static/js/main.adc464b1.chunk.js.map",
+    "runtime-main.js": "https://app.freeze.capital/static/js/runtime-main.2c34547e.js",
+    "runtime-main.js.map": "https://app.freeze.capital/static/js/runtime-main.2c34547e.js.map",
+    "static/js/2.36ce0034.chunk.js": "https://app.freeze.capital/static/js/2.36ce0034.chunk.js",
+    "static/js/2.36ce0034.chunk.js.map": "https://app.freeze.capital/static/js/2.36ce0034.chunk.js.map",
+    "static/js/3.768afb20.chunk.js": "https://app.freeze.capital/static/js/3.768afb20.chunk.js",
+    "static/js/3.768afb20.chunk.js.map": "https://app.freeze.capital/static/js/3.768afb20.chunk.js.map",
+    "index.html": "https://app.freeze.capital/index.html",
+    "static/css/main.6005ef80.chunk.css.map": "https://app.freeze.capital/static/css/main.6005ef80.chunk.css.map",
+    "static/js/2.36ce0034.chunk.js.LICENSE.txt": "https://app.freeze.capital/static/js/2.36ce0034.chunk.js.LICENSE.txt",
+    "static/media/getFetch.cjs": "https://app.freeze.capital/static/media/getFetch.582d29c4.cjs"
   },
   "entrypoints": [
-    "static/js/runtime-main.67454ba6.js",
-    "static/js/2.73d493ce.chunk.js",
+    "static/js/runtime-main.2c34547e.js",
+    "static/js/2.36ce0034.chunk.js",
     "static/css/main.6005ef80.chunk.css",
-    "static/js/main.49bc398c.chunk.js"
+    "static/js/main.adc464b1.chunk.js"
   ]
 }
